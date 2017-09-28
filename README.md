@@ -1,4 +1,4 @@
-
+# Brutal Wordlist Generator
 Brutal Wordlist Generator is a java based Application software used to generate the wordlist with best of UX interface .
 Using this application you can generate wordlist having Capital Alphabets ,Small Alphabets,All Symbols and Numbers and
 Special Feature is you can generate wordlist having Specific character which help you to Reduce the Number of Combination generated.
