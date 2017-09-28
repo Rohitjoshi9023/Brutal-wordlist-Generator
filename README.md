@@ -22,7 +22,7 @@ It is Open Source Application Developed by **Rox Studio Developer** for Generati
 
  Operating System :-Platform Independent(Window,Linux,Mac etc)
 
- Software required :-Java Runtime Environment (JRE).⋅⋅
+ Software required :-Java Runtime Environment (JRE).
 
  Library :-JFoenix.jar **Already added**
 
